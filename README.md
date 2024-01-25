@@ -18,5 +18,5 @@
 - 🔗 **Other Tools:** Git, Docker, Jupyter
   
 ### Connect with Me:
--https://www.linkedin.com/in/enurja/
+- https://www.linkedin.com/in/enurja/
 - email: eriknurja12@gmail.com
