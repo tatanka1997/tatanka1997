@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**tatanka1997/tatanka1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my Github profile!
 
-Here are some ideas to get you started:
+### About me
+- 🔭 I’m currently engrossed in an exciting project: **Predicting Match Events Based on Player Statistics**
+- 🌱 Expanding my expertise in **Data Science** and **Machine Learning**
+- 🤝 Open to collaborating on innovative projects in **Sports Analytics**
+- 🤔 Seeking insights and exchanges on **Advanced Predictive Modeling**
+- 💬 Happy to discuss **Data Analytics, Machine Learning**, and **Sports Statistics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Toolkit:
+
+- 📊 **Data Analysis:** Python (Pandas, NumPy), R
+- 🧠 **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
+- 📈 **Data Visualization:** Matplotlib, Seaborn, Tableau
+- 💾 **Database Management:** SQL, NoSQL
+- 🔗 **Other Tools:** Git, Docker, Jupyter
+  
+### Connect with Me:
+-https://www.linkedin.com/in/enurja/
+- email: eriknurja12@gmail.com
